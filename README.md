@@ -1,69 +1,112 @@
 <h1 align="center">Mobasshir Perwez</h1>
-<h3 align="center">Backend Developer | Golang Engineer</h3>
+<h3 align="center">Backend Developer | Golang | Distributed Systems</h3>
 
 ---
 
-## About Me
+## About
 
-Backend Developer with around 2 years of experience building backend services in the fintech domain. Experienced in designing and developing scalable APIs using Golang with a strong focus on clean architecture, performance, and reliability.
+Backend Developer with experience building financial backend systems and scalable APIs in the fintech domain.
+Currently working on backend services powering mutual fund transactions, KYC onboarding workflows, and asynchronous event processing systems.
 
-Current areas of focus include improving system scalability, implementing efficient concurrency patterns in Go, and strengthening fundamentals in data structures, algorithms, and system design.
-
----
-
-## Professional Summary
-
-- Backend development using Golang
-- REST API design and development
-- Authentication and authorization using JWT
-- Middleware design and request lifecycle management
-- Third-party API integrations
-- Writing clean, maintainable, and production-ready backend services
-- Experience working with financial domain workflows and services
+Strong focus on building reliable backend infrastructure, improving system performance, and designing scalable architectures using Golang and distributed messaging systems.
 
 ---
 
-## Connect
+## Experience
 
-Email: perwezmobasshir@gmail.com  
-LinkedIn: https://www.linkedin.com/in/mobasshir-perwez/
+**Backend Developer — Pocketful (Pace Stock Broking Services)**
+March 2024 – Present
+
+* Led development of Mutual Fund APIs including order management, transaction workflows, and financial data integrations using BSE Star MF.
+* Designed and implemented REST APIs for KYC onboarding, eSign workflows, and document verification pipelines.
+* Integrated financial service providers including NSDL, Digio, Finvu, and Msg91 to automate onboarding and notification workflows.
+* Implemented concurrency patterns in Go to improve request throughput and reduce latency in high-traffic endpoints.
+* Built asynchronous notification services using RabbitMQ for email and system event processing.
+* Developed cron-based background jobs for syncing financial instruments such as IPOs, ETFs, bonds, and mutual funds.
+* Designed role-based authentication and authorization systems using JWT.
 
 ---
 
-## Technology Stack
+## Technical Expertise
 
-### Backend
-- Golang
-- Gin Framework
-- REST APIs
-- JWT Authentication
+### Backend Development
+
+Golang
+REST API Design
+Middleware Architecture
+Authentication and Authorization (JWT)
 
 ### Databases
-- MySQL
-- MongoDB
 
-### Tools and Platforms
-- Docker
-- Git
-- Postman
+PostgreSQL
+MongoDB
+Redis
 
----
+### Messaging and Streaming
 
-## GitHub Statistics
+RabbitMQ
+Kafka
+WebSocket
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
+### Infrastructure
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
-</p>
+Docker
+AWS (EC2, S3)
+OpenSearch
+Git
 
 ---
 
-## Current Focus
+## Selected Engineering Work
 
-- Building production-grade backend systems
-- Improving concurrency patterns in Golang
-- Strengthening system design fundamentals
-- Preparing for product-based engineering roles
+### Mutual Fund Transaction APIs
+
+Backend services supporting mutual fund orders, transactions, and financial instrument data integration.
+
+### KYC Onboarding System
+
+Secure onboarding pipeline integrating multiple financial verification providers including eSign and document validation.
+
+### Event Driven Notification Pipeline
+
+Asynchronous messaging system using RabbitMQ to process user notifications and system events.
+
+### Financial Data Sync Services
+
+Background job architecture for periodic synchronization of IPO, bond, ETF, and mutual fund datasets.
+
+---
+
+## Engineering Interests
+
+Distributed Systems
+Concurrency Patterns in Go
+Event Driven Architecture
+Financial Infrastructure Systems
+Scalable Backend Design
+
+---
+
+## Competitive Programming
+
+Solved 750+ problems on Data Structures and Algorithms.
+
+LeetCode Rating: 1760 (Top 10%)
+CodeChef: 4 Star Programmer (Peak Rating 1951)
+
+---
+
+## Education
+
+B.Tech in Computer Science
+Indian Institute of Information Technology, Lucknow
+2019 – 2023
+
+---
+
+## Links
+
+GitHub: https://github.com/mobasshir-07
+LinkedIn: https://www.linkedin.com/in/mobasshir-perwez
+LeetCode: https://leetcode.com/u/lcs2019013_iiitl/
+Email: [perwezmobasshir@gmail.com](mailto:perwezmobasshir@gmail.com)
