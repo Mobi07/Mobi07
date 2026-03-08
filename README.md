@@ -1,112 +1,110 @@
 <h1 align="center">Mobasshir Perwez</h1>
-<h3 align="center">Backend Developer | Golang | Distributed Systems</h3>
+
+<p align="center">
+Backend Developer | Golang | Fintech Systems
+</p>
+
+<p align="center">
+<a href="mailto:perwezmobasshir@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/mobasshir-07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+</a>
+<a href="https://leetcode.com/u/lcs2019013_iiitl/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">
+</a>
+<a href="https://www.linkedin.com/in/mobasshir-perwez">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
+</p>
 
 ---
 
 ## About
 
-Backend Developer with experience building financial backend systems and scalable APIs in the fintech domain.
-Currently working on backend services powering mutual fund transactions, KYC onboarding workflows, and asynchronous event processing systems.
+Backend developer experienced in building scalable backend systems in the fintech domain. Currently working on financial infrastructure including mutual fund transaction systems, KYC onboarding workflows, and event-driven services.
 
-Strong focus on building reliable backend infrastructure, improving system performance, and designing scalable architectures using Golang and distributed messaging systems.
-
----
-
-## Experience
-
-**Backend Developer — Pocketful (Pace Stock Broking Services)**
-March 2024 – Present
-
-* Led development of Mutual Fund APIs including order, transaction workflows, and financial data integrations using BSE Star MF.
-* Designed and implemented REST APIs for KYC onboarding, eSign workflows, and document verification pipelines.
-* Integrated financial service providers including NSDL, Digio, Finvu, and Msg91 to automate onboarding and notification workflows.
-* Implemented concurrency patterns in Go to improve request throughput and reduce latency in high-traffic endpoints.
-* Built asynchronous notification services using RabbitMQ for email and system event processing.
-* Developed cron-based background jobs for syncing financial instruments such as IPOs, ETFs, bonds, and mutual funds.
-* Designed role-based authentication and authorization systems using JWT.
+Focused on designing reliable APIs, improving system performance, and building scalable backend architectures using Golang and distributed messaging systems.
 
 ---
 
-## Technical Expertise
+## Professional Experience
+
+**Backend Developer — Pocketful (Pace Stock Broking Services)**  
+*March 2024 – Present*
+
+- Led development of Mutual Fund APIs including order management and transaction processing using BSE Star MF.
+- Built REST APIs for KYC onboarding, eSign workflows, and document verification pipelines.
+- Integrated financial service providers including NSDL, Digio, Finvu, and Msg91.
+- Implemented concurrency patterns in Go to improve request throughput and reduce latency.
+- Built asynchronous notification pipelines using RabbitMQ.
+- Developed cron-based background services to sync financial instruments such as IPOs, ETFs, bonds, and mutual funds.
+- Designed role-based authentication systems using JWT.
+
+---
+
+## Technical Stack
+
+### Languages
+Golang • Java • Python • C++ • SQL
 
 ### Backend Development
-
-Golang
-REST API Design
-Middleware Architecture
-Authentication and Authorization (JWT)
+REST APIs • Middleware Design • Authentication (JWT)
 
 ### Databases
+PostgreSQL • MongoDB • Redis
 
-PostgreSQL
-MongoDB
-Redis
+### Messaging & Streaming
+RabbitMQ • Kafka • WebSocket
 
-### Messaging and Streaming
-
-RabbitMQ
-Kafka
-WebSocket
-
-### Infrastructure
-
-Docker
-AWS (EC2, S3)
-OpenSearch
-Git
+### Infrastructure & Tools
+Docker • AWS (EC2, S3) • OpenSearch • Git
 
 ---
 
-## Selected Engineering Work
+## Engineering Work
 
-### Mutual Fund Transaction APIs
+**Mutual Fund Transaction Services**  
+Backend APIs handling financial transactions and order workflows.
 
-Backend services supporting mutual fund orders, transactions, and financial instrument data integration.
+**KYC Onboarding Platform**  
+Automated onboarding pipeline integrating document verification and eSign providers.
 
-### KYC Onboarding System
+**Event Driven Notification System**  
+RabbitMQ-based messaging pipeline for user notifications and background jobs.
 
-Secure onboarding pipeline integrating multiple financial verification providers including eSign and document validation.
-
-### Event Driven Notification Pipeline
-
-Asynchronous messaging system using RabbitMQ to process user notifications and system events.
-
-### Financial Data Sync Services
-
-Background job architecture for periodic synchronization of IPO, bond, ETF, and mutual fund datasets.
+**Financial Data Sync Services**  
+Scheduled background services for syncing IPO, ETF, bond, and mutual fund datasets.
 
 ---
 
 ## Engineering Interests
 
-Distributed Systems
-Concurrency Patterns in Go
-Event Driven Architecture
-Financial Infrastructure Systems
-Scalable Backend Design
+- Distributed Systems  
+- Concurrency Patterns in Go  
+- Event Driven Architecture  
+- Financial Infrastructure  
+- Scalable Backend Design  
 
 ---
 
 ## Competitive Programming
 
-Solved 750+ problems on Data Structures and Algorithms.
-
-LeetCode Rating: 1760 (Top 10%)
-CodeChef: 4 Star Programmer (Peak Rating 1951)
+- Solved **750+ DSA problems**
+- **LeetCode Rating:** 1760 (Top 10%)
+- **CodeChef:** 4★ Programmer (Peak Rating 1951)
 
 ---
 
 ## Education
 
-B.Tech in Computer Science
-Indian Institute of Information Technology, Lucknow
+**B.Tech in Computer Science**  
+Indian Institute of Information Technology, Lucknow  
 2019 – 2023
 
 ---
 
-## Links
+## Open to Opportunities
 
-GitHub: https://github.com/mobasshir-07
-LinkedIn: https://www.linkedin.com/in/mobasshir-perwez
-LeetCode: https://leetcode.com/u/lcs2019013_iiitl/
-Email: [perwezmobasshir@gmail.com](mailto:perwezmobasshir@gmail.com)
+Interested in backend engineering roles focused on scalable systems, distributed architectures, and financial technology platforms.
