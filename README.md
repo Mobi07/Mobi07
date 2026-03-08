@@ -17,7 +17,7 @@ Strong focus on building reliable backend infrastructure, improving system perfo
 **Backend Developer — Pocketful (Pace Stock Broking Services)**
 March 2024 – Present
 
-* Led development of Mutual Fund APIs including order management, transaction workflows, and financial data integrations using BSE Star MF.
+* Led development of Mutual Fund APIs including order, transaction workflows, and financial data integrations using BSE Star MF.
 * Designed and implemented REST APIs for KYC onboarding, eSign workflows, and document verification pipelines.
 * Integrated financial service providers including NSDL, Digio, Finvu, and Msg91 to automate onboarding and notification workflows.
 * Implemented concurrency patterns in Go to improve request throughput and reduce latency in high-traffic endpoints.
